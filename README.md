@@ -1,1 +1,3 @@
-# jae.ml
+# Machine Learning Practice
+
+For sunbae!
